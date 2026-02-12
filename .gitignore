@@ -6,3 +6,6 @@ env/
 
 # Dataset folder
 data/
+
+# models folder
+models/
