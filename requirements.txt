@@ -1,0 +1,15 @@
+numpy
+pandas
+scipy
+torch
+torchvision
+scikit-learn
+matplotlib
+seaborn
+plotly
+streamlit
+tqdm
+umap-learn
+jupyter
+ipykernel
+nbformat
