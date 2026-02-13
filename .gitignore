@@ -8,3 +8,6 @@ env/
 data/
 
 # models folder
+
+# venv folder
+.venv/
