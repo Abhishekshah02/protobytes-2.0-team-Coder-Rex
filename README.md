@@ -25,7 +25,7 @@ We propose a self-supervised contrastive learning framework that:
 ✅Enables cross-device compatibility by training on diverse wearable datasets   
 ✅Provides a universal API for extracting health insights from any IMU-enabled device   
 
-Impact: 
+Impact:   
 ● Healthcare apps can work with any wearable, not just specific brands    
 ● Researchers can combine datasets from different studies   
 ● Patients can switch devices without losing health tracking continuity   
