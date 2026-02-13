@@ -405,7 +405,7 @@ def run_preprocessing():
     print("=" * 60)
 
     base_path = (
-        r"C:\Users\Amrit Shah\Desktop\protobyte 2.0\protobytes-2.0-team-Coder-Rex"
+        r"/home/ashutosh/Desktop/hackathon training/protobytes-2.0-team-Coder-Rex"
     )
 
     sisfall_path = os.path.join(base_path, "data", "raw", "SisFall")

@@ -7,5 +7,4 @@ env/
 # Dataset folder
 data/
 
-# models folder
-models/
+__pycache__/
